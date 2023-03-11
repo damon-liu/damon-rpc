@@ -4,7 +4,7 @@ damon-rpc项目是基于neety+jdk动态代理实现简易rpc框架。
 
 首先了解一下neety的通信模型：
 
-![image-20230311231407455](https://damon-study.oss-cn-shenzhen.aliyuncs.com/%20typora/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8Bimage-20230311231407455.png)
+![image-20230311233515751](https://damon-study.oss-cn-shenzhen.aliyuncs.com/%20typora/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8Bimage-20230311233515751.png)
 
 本项目的模型图，重点在03与06处
 
